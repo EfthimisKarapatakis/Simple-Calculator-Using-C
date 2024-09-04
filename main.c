@@ -24,13 +24,13 @@ int main() {
     */
 
     // With switch operator:
-    switch(operator1){
+    switch(operator1) {
         case '+':
             result = number1 + number2;
             break;
         case '-':
             result = number1 - number2;
-            break;~
+            break;
         case '*':
             result = number1 * number2;
             break;
